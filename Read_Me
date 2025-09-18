@@ -193,6 +193,7 @@ framebuffer_reservation = 0xC000000   # In combination with the framebuffer size
 ----------------------------------
 :Setting Up NVIDIA Licence Server:
 -----------------------------------
+Docker Version Can Be Found Here: https://hub.docker.com/r/collinwebdesigns/fastapi-dls
 
 1) Setup FastAPI-DLS Server: 
 Steps Are Found Here: 

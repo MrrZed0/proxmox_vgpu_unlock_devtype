@@ -1,5 +1,5 @@
-Better Formated Version Here: https://github.com/MrrZed0/proxmox_vgpu_unlock_devtype/blob/main/Read_Me
-How To Use Tesla P40 In Windows Without vGPU Unlock: https://github.com/MrrZed0/How-to-use-tesla-p40
+- Better Formated Version Here: https://github.com/MrrZed0/proxmox_vgpu_unlock_devtype/blob/main/Read_Me
+- How To Use Tesla P40 In Windows Without vGPU Unlock: https://github.com/MrrZed0/How-to-use-tesla-p40
 
 Installing NVIDIA Driver On Proxmox:
 -------------------------------------
